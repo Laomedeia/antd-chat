@@ -1,8 +1,6 @@
 import axios from 'axios'
 import hash from 'hash.js'
 
-// axios.defaults.baseURL = 'localhost:12002'
-
 export default function request(
   url,
   options
